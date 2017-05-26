@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "chai": "^4.0.0",
+    "chai-spies": "^0.7.1",
     "mocha": "^3.4.2"
   }
 }
